@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Dart & Rust
 - 📫 How to reach me: finardialberto@gmail.com
 
-![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertofinardi&theme=vue})
+<img src="{https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertofinardi&theme=vue}" />
