@@ -2,7 +2,6 @@
 - 👀 I’m interested in Computer Science and AI
 - 🌱 I’m currently learning Dart, Rust & Quantum Computing
 - 👨🏻‍💻 Working with Swift & SwiftUI
-- 📫 How to reach me: finardialbertodev@gmail.com
 
 <p align="center">
   <a href="https://skillicons.dev">
